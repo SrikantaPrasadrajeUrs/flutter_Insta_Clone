@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243742794624",
+    "project_id": "insta-clone-srikanta",
+    "storage_bucket": "insta-clone-srikanta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243742794624:android:0bf3881b5e4efc6784d765",
+        "android_client_info": {
+          "package_name": "com.example.river_pod_course_2x"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsZSz5659avVNB1LNCax5mLJ5fMPwXiVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
