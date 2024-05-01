@@ -21,6 +21,7 @@ final tickerProvider=StreamProvider((ref) {
 
 final namesProvider=StreamProvider((ref){
   return ref.watch(tickerProvider.stream).map((count) => names.getRange(0,count));
+  // testing git
 });
 
 class Example4 extends ConsumerWidget {
